@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/Add2Numbers.csproj",
+      "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNumbers/Add2Numbers/Add2Numbers.csproj",
       "projectName": "Add2Numbers",
-      "projectPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/Add2Numbers.csproj",
+      "projectPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNumbers/Add2Numbers/Add2Numbers.csproj",
       "packagesPath": "/Users/val/.nuget/packages/",
-      "outputPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/",
+      "outputPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNumbers/Add2Numbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/val/.nuget/NuGet/NuGet.Config"

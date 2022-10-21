@@ -24,7 +24,7 @@ while (playAgain)
         Console.WriteLine($"Your numbers added together equals {num1 + num2}");
 
         Console.WriteLine("Would you like to play again? Type Y for yes, or Type N for No.");
-        Console.ReadLine().ToUpper();
+
 
         if (Console.ReadLine().ToUpper() != "Y")
         {
