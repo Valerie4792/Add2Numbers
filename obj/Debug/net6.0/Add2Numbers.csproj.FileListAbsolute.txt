@@ -1,0 +1,15 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/bin/Debug/net6.0/Add2Numbers
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/bin/Debug/net6.0/Add2Numbers.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/bin/Debug/net6.0/Add2Numbers.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/bin/Debug/net6.0/Add2Numbers.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/bin/Debug/net6.0/Add2Numbers.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/Add2Numbers.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/Add2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/Add2Numbers.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/Add2Numbers.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/Add2Numbers.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/Add2Numbers.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/refint/Add2Numbers.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/Add2Numbers.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/Add2Numbers.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/addingTwoNums/Add2Numbers/obj/Debug/net6.0/ref/Add2Numbers.dll
